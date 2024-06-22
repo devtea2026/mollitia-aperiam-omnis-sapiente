@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/mollitia-aperiam-omnis-sapiente",
-  "version": "5.3.44",
+  "version": "5.3.45",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -770,5 +770,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/mollitia-aperiam-omnis-sapiente/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
